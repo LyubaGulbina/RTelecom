@@ -14,7 +14,7 @@ tests.auth_page.py – тесты для страницы авторизации
  
 tests.registration.py – тесты для страницы регистрации
 
-pages/base.py  - реализация шаблона PageObject для Python  
+pages/base_page.py  - реализация шаблона PageObject для Python  
 
 pages/auth_page.py  – вспомогательные данные для тестов страницы авторизации  
 
